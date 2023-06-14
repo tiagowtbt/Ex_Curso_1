@@ -1,0 +1,10 @@
+---
+title: "POIROT INVESTIGA"
+lang: pt
+author: "Agatha Christie"
+date: "03-19-1924"
+image: ../assets/project3.jpg
+categories: 
+  - Mistério
+  - Poirot
+---

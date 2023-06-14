@@ -1,0 +1,42 @@
+Criando quarto website
+
+Primeiro criei o diretório como quarto website. 
+Logo após isso, apaguei o arquivo about.qmd, criei os arquivos sobre.qmd, contato.qmd e projetos.qmd dentro de uma nova pasta chamada pages.
+Adicionei o direcionamento na seção navbar do arquivo _quarto.yml. 
+Mudei o tema para morph, e o nome do site para Portifólio
+
+Mudei a navbar de left para right
+
+criação da pasta projetos e modificação de projetos.qmd. A seguinte linha foi adicionada: 
+
+{
+	---
+	title: "Projetos"
+	lang: pt
+	listing:
+	  contents: projetos
+	  sort: "date desc"
+	  type: default
+	  categories: true
+	  sort-ui: true
+	  filter-ui: false
+	page-layout: full
+	title-block-banner: true
+	---
+}
+
+Adicionei uma pasta assets para colocar imagens e coloquei uma foto como profile.jpg na seção about, com o layout marquee
+
+
+
+
+
+html *
+{
+   font-size: 1em !important;
+   color: #000 !important;
+   font-family: Arial !important;
+}
+
+escrevi o texto
+

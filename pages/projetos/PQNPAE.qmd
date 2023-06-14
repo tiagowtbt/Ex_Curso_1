@@ -1,0 +1,12 @@
+---
+title: "POR QUE NÃO PEDIRAM A EVANS?"
+lang: pt
+author: "Agatha Christie"
+date: "09-19-1934"
+image: ../assets/project4.jpg
+categories: 
+  - Mistério
+---
+
+
+

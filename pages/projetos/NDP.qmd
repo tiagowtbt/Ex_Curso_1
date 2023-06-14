@@ -1,0 +1,17 @@
+---
+title: "O NATAL DE POIROT"
+lang: pt
+author: "Agatha Christie"
+date: "12-19-1938"
+image: ../assets/project1.jpg
+categories: 
+  - Mistério
+  - Poirot
+---
+
+_*MEU QUERIDO JAMES*_  
+Você sempre foi um de meus mais fiéis e bondosos leitores, por isso mesmo, fiquei seriamente perturbada ao receber de você um comentário crítico. Você se queixou de que meus assasinatos estariam ficando refinados demais --- na verdade, anêmicos. Demonstrou, também, o desejo de "um assasinato bom e violento, com montões de sangue". Um assassinato em que não houvesse dúvida de ser assassinato!
+ 
+Pois essa é uma história especial para você --- escrita para você. Espero que lhe agrade. Afetuosamente, de sua cunhada.
+
+_Agatha_

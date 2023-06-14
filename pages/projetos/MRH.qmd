@@ -1,0 +1,21 @@
+---
+title: "MORTE NA RUA HICKORY"
+lang: pt
+author: "Agatha Christie"
+date: "10-31-1955"
+image: ../assets/project2.jpg
+categories: 
+  - Mistério
+  - Poirot
+---
+
+*"Hickory dickory dock*  
+*The mouse ran up the clock*   
+*The clock struck one*   
+*The mouse ran down*    
+*Hickory dickory dock."*   
+
+Hercule Poirot franziu a testa e chamou:    
+-- Miss Lemon!   
+-- Diga, M. Poirot.   
+-- Há três erros nesta carta!  

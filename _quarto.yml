@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "AGATHA CHRISTIE"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - pages/sobre.qmd
+      - pages/projetos.qmd
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+editor: visual
+

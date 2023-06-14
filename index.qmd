@@ -1,0 +1,38 @@
+---
+title: "Agatha Christie"
+lang: pt
+sort-ui: false
+filter-ui: false
+page-navigation: false
+
+listing:
+  id: projetos
+  contents: pages/projetos
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  max-items: 3
+  fields: [image, date, title]
+
+about:
+    id: card
+    template: jolla
+    image: pages/assets/profile.jpg
+    links:
+      - icon: twitter
+        text: twitter
+        href: https://twitter.com
+      - icon: github
+        text: Github
+        href: https://github.com
+---
+
+::: {#card}
+
+Escritora, poeta, dramaturga e rainha do crime.
+:::
+
+::: {#projetos}
+:::

@@ -1,0 +1,34 @@
+---
+title: "Sobre"
+css: about.css
+about:
+  template: marquee
+  image: assets/profile.jpg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+
+::: {.justificar}
+
+&emsp; _Excelente cozinheira, amante da vida doméstica, Agatha Christie detestava a publicidade e as ocasiões em que tinha de aparecer em público. Construía seus mistérios caminhando pelos parques ou devorando maçãs, durante seus banhos de imersão. Lia muita poesia moderna, tendo aversão pelo punhal e o revólver: "Prefiro as mortes por envenenamento", costumava dizer._  
+&emsp; _Natural de Torquay, Inglaterra, onde nasceu em setembro de 1891, Agatha Mary Clarissa Miller era filha de mãe inglesa e pai americano, que morreu quando ela era ainda bem criança. Passou a infância e a adolescência num ambiente quase recluso, pois sua mãe se encarregou de lhe dar formação cultural, proibindo-a de frequentar escolas. Seus autores prediletos eram Charles Dickens e Conan Doyle, o criador de Sherlock Holmes. Tinha trinta anos quando conseguiu publicar seu livro de estréia, "O misterioso caso de Styles"(1921)._  
+&emsp; _"A participação do leitor é essencial. Ele deve desvendar o mistério lentamente, como se estivesse sendo envenenado." Tão traduzida quanto Shakespeare, com quatrocentos milhões de exemplares vendidos, a "Dama do Crime" é a responsável pela quarta tiragem mundial de todos os tempos: à sua frente, estão apenas Lênin, Julio Verne e Liev Tolstói._  
+&emsp; _Agatha Christie criou dois tipos inesquecíveis: o detetive Poirot, com suas prodigiosas "celulazinhas cinzentas no cérebro", e Miss Marple, uma solteirona simpática, observadora sagaz e tão cerebral quanto o detetive belga. Antes de morrer, em 12 de janeiro de 1976, cuidou também de preparar a morte de Miss Marple; e voltou à Mansão Styles, cenário de seu primeiro livro, para encerrar a carreira de Poirot em "Cai o pano"._
+
+:::
+
+::: {.fonte}
+
+--- Retirado de "O Inimigo Secreto" (Círculo do Livro), p. 256
+
+:::
+
+  
+
+  
